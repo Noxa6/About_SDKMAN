@@ -20,7 +20,7 @@ Para poder usarlo en S.O Windows debemos instalar:
 
 4. Instalar Versión  de Java necesarias.
 
-## Instalar SDKMAN
+### Instalar SDKMAN
 
 Para descargar instalador:
 
@@ -41,6 +41,8 @@ $ sdk version
 ```
 
 ### Instalar Versión de Java necesaria
+
+---
 
 Para listar versiones y distribución disponibles
 
